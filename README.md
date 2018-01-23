@@ -1,7 +1,4 @@
 # gitlab
-# level 1 heading
-## level 2 heading
+## Team
 
-*Alpa
-*Bravo
-*Charlie
+*Alex
